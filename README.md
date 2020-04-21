@@ -1,10 +1,7 @@
 ## DESCRIPTION
 
-github---> https://github.com/MichalGoly/SpaceShooter
-
-Space shooter is an HTML5 canvas game with conservation of momentum developed by me
-using JavaScript as part of a programming assignment at Aberystwyth University.
-It is currently hosted here: [http://users.aber.ac.uk/mwg2/ftw/](http://users.aber.ac.uk/mwg2/ftw/)
+Space shooter is an HTML5 canvas game with momentum conservation developed by me
+use JavaScript as part of learning programming during a pandemic (covid-19) to stay at home.
 
 ## GAME MECHANICS
 
